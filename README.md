@@ -7,15 +7,17 @@
 - 🫶 Eu sou apaixonado por músicas e esportes: festivais de música e eventos esportivos são um verdadeiro parque de diversões pra mim
 - 🤔 Fato curioso sobre mim: sou quase formado em Engenharia Civil, e o que me fez tentar esse ramo foi o sonho de construir estádios de futebol
 - 📫 Como entrar em contato comigo:
-    - [<img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]    [<img width="22px" src="https://cdn-icons-png.flaticon.com/512/3176/3176392.png"/>](mailto:luizfelipesribeiro@outlook.com)
+    - [<img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin][<img width="22px" src="https://cdn-icons-png.flaticon.com/512/3176/3176392.png"/>][email]
 
 <details>
-    <summary> ### Linguagens mais utilizadas: </summary>
+    <summary> Linguagens mais utilizadas: </summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSR97&layout=compact&langs_count=10" />
 </details>
 
-### Minhas estatísticas no GitHub:
-<img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
+<details>
+    <summary> Minhas estatísticas no GitHub: </summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
+</details>
 
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-simoes-ribeiro/
 [email]: mailto:luizfelipesribeiro@outlook.com
