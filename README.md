@@ -7,8 +7,12 @@
 - 🫶 Eu sou apaixonado por músicas e esportes: festivais de música e eventos esportivos são um verdadeiro parque de diversões pra mim
 - 🤔 Fato curioso sobre mim: sou quase formado em Engenharia Civil, e o que me fez tentar esse ramo foi o sonho de construir estádios de futebol
 - 📫 Como entrar em contato comigo:
+    -  [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] Teste
     - Linkedin: https://www.linkedin.com/in/luiz-felipe-simoes-ribeiro/
     - E-mail: luizfelipesribeiro@outlook.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
+### Linguagens mais utilizadas:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSR97&layout=compact&langs_count=10" />
+
+### Minhas estatísticas no GitHub:
+<img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
