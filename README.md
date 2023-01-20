@@ -9,14 +9,16 @@
 - 📫 Como entrar em contato comigo:
     - [<img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin][<img width="22px" src="https://cdn-icons-png.flaticon.com/512/3176/3176392.png"/>][email]
 
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSR97&layout=compact&langs_count=10" /><img align='right' src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
+
 <details align='left'>
     <summary> Linguagens mais utilizadas: </summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSR97&layout=compact&langs_count=10" />
+    <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSR97&layout=compact&langs_count=10" />
 </details>
 
 <details align='right'>
     <summary> Minhas estatísticas no GitHub: </summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSR97&count_private=true&show_icons=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-simoes-ribeiro/
