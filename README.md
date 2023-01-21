@@ -1,5 +1,17 @@
 <h2> Olá, eu sou o Luiz! 👋 </h2>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" width="300px" src="https://i.pinimg.com/originals/6f/c4/c8/6fc4c8e06fb4aa6f343dbbc476df7e2f.gif">
+
+</br>
+
 - 🏠 Moro no Rio de Janeiro-RJ, Brasil
 - 💼 Eu migrei recentemente para a área de desenvolvedor web e estou aprendendo a cada dia
 - 📖 Estou em constante aprendizado, no momento aprendendo um pouco mais sobre Docker, AWS e GitHub Actions
@@ -45,5 +57,3 @@
 
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-simoes-ribeiro/
 [email]: mailto:luizfelipesribeiro@outlook.com
-
-
