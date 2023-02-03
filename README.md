@@ -12,7 +12,7 @@
 </br>
 
 - 🏠 Moro no Rio de Janeiro-RJ, Brasil
-- 💼 Eu migrei recentemente para a área de desenvolvedor web e estou aprendendo a cada dia
+- 💼 Eu migrei recentemente para a área de desenvolvimento web e estou aprendendo a cada dia
 - 📖 Estou em constante aprendizado, no momento aprendendo um pouco mais sobre Docker, AWS e GitHub Actions
 - 🔭 Atualmente, estou trabalhando com um projeto chamado Brasa Fantasy, uma ideia alternativa aos fantasy games de futebol brasileiro no mercado
 - 🫶 Eu sou apaixonado por músicas e esportes: festivais de música e eventos esportivos são um verdadeiro parque de diversões pra mim
